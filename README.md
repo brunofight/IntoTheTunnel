@@ -4,8 +4,5 @@
 
 ``` git clone https://github.com/brunofight/IntoTheTunnel.git   
 
-  
-
-``` git pull -s recursive -X theirs    
 
 
