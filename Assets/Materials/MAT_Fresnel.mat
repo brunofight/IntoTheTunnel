@@ -105,8 +105,8 @@ Material:
     - _ZTestTransparent: 4
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.07450981, g: 0.016176471, b: 0.021568628, a: 0}
+    - _Color: {r: 0.018867925, g: 0.018867925, b: 0.018867925, a: 0}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
-    - _FresnelColor: {r: 1.2625344, g: 3.7113507, b: 1.1729268, a: 0}
+    - _FresnelColor: {r: 1.2824563, g: 3.7113507, b: 1.1853005, a: 0}
   m_BuildTextureStacks: []
